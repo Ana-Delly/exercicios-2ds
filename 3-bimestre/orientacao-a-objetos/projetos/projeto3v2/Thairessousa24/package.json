@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-thairessousa24",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de laudos hospitalares — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thairessousa24",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

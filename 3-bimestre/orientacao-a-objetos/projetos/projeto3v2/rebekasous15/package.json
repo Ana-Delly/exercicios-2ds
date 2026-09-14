@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-rebekasous15",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de certificados de curso — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "rebekasous15",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

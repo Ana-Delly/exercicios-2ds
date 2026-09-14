@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-francisco-bruno",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de documentos civis — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "francisco-Bruno",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

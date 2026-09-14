@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-pedrojuan-lab",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de guias de imposto — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "pedrojuan-lab",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

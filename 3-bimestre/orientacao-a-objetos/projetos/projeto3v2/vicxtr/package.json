@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-vicxtr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de certificados de jogos online — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "vicxtr",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

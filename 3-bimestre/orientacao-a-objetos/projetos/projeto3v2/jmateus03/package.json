@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-jmateus03",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de laudos de exames — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "jmateus03",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

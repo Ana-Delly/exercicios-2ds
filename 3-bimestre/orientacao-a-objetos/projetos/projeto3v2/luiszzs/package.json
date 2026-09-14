@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-luiszzs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de contratos de locação — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "luiszzs",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

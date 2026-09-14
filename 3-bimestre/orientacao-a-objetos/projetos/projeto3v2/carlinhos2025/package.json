@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-carlinhos2025",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de ingressos — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "carlinhos2025",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

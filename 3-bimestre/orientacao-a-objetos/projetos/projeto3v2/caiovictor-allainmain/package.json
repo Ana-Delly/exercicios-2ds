@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-caiovictor-allainmain",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de vouchers — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "caiovictor-allainmain",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

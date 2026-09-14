@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-ana-delly",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de apólices — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ana-Delly",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

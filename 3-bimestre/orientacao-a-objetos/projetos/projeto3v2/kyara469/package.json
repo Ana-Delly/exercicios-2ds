@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-kyara469",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de cupons fiscais — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "kyara469",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

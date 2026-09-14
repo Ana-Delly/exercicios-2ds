@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-davysonzzs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de licenças de software — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "davysonzzs",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

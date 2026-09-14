@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-pedrohenrique768",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de senhas de atendimento — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "pedrohenrique768",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

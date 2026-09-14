@@ -1,13 +1,13 @@
 {
-  "name": "projeto3",
+  "name": "projeto3v2-emanoelzzs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de emissão de passaportes — projeto de POO (Factory)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "emanoelzzs",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
