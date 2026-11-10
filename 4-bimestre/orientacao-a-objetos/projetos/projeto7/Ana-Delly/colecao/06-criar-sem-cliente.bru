@@ -1,0 +1,16 @@
+meta {
+  name: POST - erro sem cliente
+  type: http
+  seq: 6
+}
+
+post {
+  url: http://localhost:3000/pedidos
+  body: json
+  auth: none
+}
+
+body:json {
+  "pizza": "Mussarela",
+  "valor": 45
+}

@@ -1,0 +1,17 @@
+meta {
+  name: POST - erro valor menor ou igual a zero
+  type: http
+  seq: 9
+}
+
+post {
+  url: http://localhost:3000/pedidos
+  body: json
+  auth: none
+}
+
+body:json {
+  "cliente": "Diego",
+  "pizza": "Mussarela",
+  "valor": 0
+}

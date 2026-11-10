@@ -1,0 +1,17 @@
+meta {
+  name: POST - erro valor nao numerico
+  type: http
+  seq: 8
+}
+
+post {
+  url: http://localhost:3000/pedidos
+  body: json
+  auth: none
+}
+
+body:json {
+  "cliente": "Diego",
+  "pizza": "Mussarela",
+  "valor": "muitos"
+}

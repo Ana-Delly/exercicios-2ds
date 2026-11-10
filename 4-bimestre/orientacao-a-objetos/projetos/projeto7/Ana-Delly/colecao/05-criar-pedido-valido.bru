@@ -1,0 +1,17 @@
+meta {
+  name: POST - criar pedido valido
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://localhost:3000/pedidos
+  body: json
+  auth: none
+}
+
+body:json {
+  "cliente": "Diego",
+  "pizza": "Mussarela",
+  "valor": 45
+}
